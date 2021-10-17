@@ -13,7 +13,8 @@
     <li><a href="#9" style="text-decoration: none;">Yearly trend</a></li>
     <li><a href="#10" style="text-decoration: none;">Autocorrelaion</a></li>
     <li><a href="#11" style="text-decoration: none;">Time Series Analysis and Forecasting with Prophet</a></li>
-    <li><a href="#12" style="text-decoration: none;">Conclusion of Time Series forecasting</a></li>
+    <li><a href="#12" style="text-decoration: none;">Modeling Holidays</a></li>
+    <li><a href="#13" style="text-decoration: none;">Conclusion of Time Series forecasting</a></li>
 </ul>
 
 
@@ -1805,7 +1806,7 @@ plt.show()
 ```
 
 
-![png](output_57_0.png)
+![png](img/output_57_0.png)
 
 
 <p>The heatmap is showing that a strong correlation between sales and customer.</p>
@@ -2535,7 +2536,7 @@ forecast.head()
 
 
 
-<h3 id='12'>Conclusion of Time Series forecasting</h3>
+<h3 id='13'>Conclusion of Time Series forecasting</h3>
 <p>In conclusion section, I will present main advantages and drawbacks of time series forecasting:</p>
 <p><i><b>Advantages</b></i></p>
 <ul>
